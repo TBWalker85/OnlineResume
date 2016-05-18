@@ -1,0 +1,81 @@
+.header {
+  text-align: center;
+  width: 100%;
+  height: 3em;
+  position: absolute;
+  background-color: mediumseagreen;
+  color: white;
+}
+.header li {
+  display: inline;
+  margin: 20px;
+}
+.header a {
+  text-decoration: uppercase;
+  color: white;
+}
+.header a:hover,
+.header a:focus {
+  color: blue;
+}
+h2 {
+  border-top: 2px solid mediumseagreen;
+  border-bottom: 2px solid mediumseagreen;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.left {
+  float: left;
+  width: 50%;
+}
+.right {
+  float: right;
+  width: 50%;
+}
+.random {
+  clear: both;
+}
+.experience ul {
+  list-style-type: none;
+}
+.ital {
+  color: mediumseagreen;
+}
+.education ul {
+  list-style-type: none;
+}
+.footer {
+  border-top: 2px solid mediumseagreen;
+  text-align: center;
+  clear: both;
+}
+.footer li {
+  display: inline;
+  padding: 10%;
+}
+.footer a {
+  text-decoration: none;
+  color: mediumseagreen;
+}
+.footer a:hover,
+.footer a:focus {
+  color: blue;
+}
+.footer p {
+  color: mediumseagreen;
+  clear: both;
+}
+.aboutMe {
+    text-align: center;
+}
+.content {
+    padding-top: 5em;
+}
+.aboutMe {
+    text-align: center;
+}
